@@ -2,7 +2,7 @@
 
 **Name:** Pendyal Praveen Kumar · **Registration number:** 252U1R9123 · **Section:** CSE GEN-AI-2B 111
 
-**Live link:** https://github.com/praveenshetty141/lab-02-sqlite-crud/tree/main
+**Live link:** https://lab-02-sqlite-crud-kfb7.onrender.com
 
 ## How to run
 
