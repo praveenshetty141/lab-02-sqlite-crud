@@ -2,8 +2,7 @@
 
 **Name:** Pendyal Praveen Kumar · **Registration number:** 252U1R9123 · **Section:** CSE GEN-AI-2B 111
 
-**Live link:** https://your-deployed-url.example.com  
-_(Replace with your Render / Railway / NxtWave Cloud IDE URL. If the project cannot be deployed, write the reason here and rely on the Postman screenshots below.)_
+**Live link:** https://lab-02-sqlite-crud-kfb7.onrender.com 
 
 ## How to run
 
