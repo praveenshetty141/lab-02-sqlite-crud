@@ -2,7 +2,8 @@
 
 **Name:** Pendyal Praveen Kumar · **Registration number:** 252U1R9123 · **Section:** CSE GEN-AI-2B 111
 
-**Live link:** https://lab-02-sqlite-crud-kfb7.onrender.com
+**Live link:** https://your-deployed-url.example.com  
+_(Replace with your Render / Railway / NxtWave Cloud IDE URL. If the project cannot be deployed, write the reason here and rely on the Postman screenshots below.)_
 
 ## How to run
 
@@ -56,7 +57,7 @@ Add your Postman and SQLite CLI screenshots to `screenshots/` and show them here
 ![PUT update book](screenshots/put.png)
 ![DELETE book](screenshots/delete.png)
 ![Error case: book not found](screenshots/not-found.png)
-![Database after changes (SQLite CLI)](screenshots/db-view.png)
+![Database after changes (SQLite CLI)](screenshots/zz-db-view.png)
 
 ## Notes: problems faced and how I solved them
 
